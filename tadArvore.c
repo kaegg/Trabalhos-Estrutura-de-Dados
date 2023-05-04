@@ -1,7 +1,7 @@
 /*
 Alunos:
-Kauan Eiji Kataoka Eguchi 128854
-Henrique Hiroshi Maeda 131594
+Kauan Eiji Kataoka Eguchi
+Henrique Hiroshi Maeda
 */
 
 #include <stdio.h>
