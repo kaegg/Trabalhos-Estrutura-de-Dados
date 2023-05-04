@@ -1,12 +1,12 @@
 /*
 Alunos:
-Kauan Eiji Kataoka Eguchi 128854
-Henrique Hiroshi Maeda 131594
+Kauan Eiji Kataoka Eguchi 
+Henrique Hiroshi Maeda
 */
 
 /*
-Escreva uma função para o BubbleSort aprimorado. Nessa função, a quantidade de comparações
-deve ser reduzida em relação ao método tradicional do BubbleSort.
+Escreva uma funÃ§Ã£o para o BubbleSort aprimorado. Nessa funÃ§Ã£o, a quantidade de comparaÃ§Ãµes
+deve ser reduzida em relaÃ§Ã£o ao mÃ©todo tradicional do BubbleSort.
 */
 
 #include <stdio.h>
